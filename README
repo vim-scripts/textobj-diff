@@ -1,0 +1,18 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2415
+
+*textobj-diff* is a Vim plugin to provide text objects for outputs of diff(1).
+Currently it supports the following formats:
+- diff --context
+- diff --unified
+- git diff
+
+
+Requirements:
+- Vim 7.2 or later
+- |textobj-user| 0.3.7 or later (vimscript#2100)
+
+Latest version:
+http://github.com/kana/vim-textobj-diff
+
+Document in HTML format:
+http://kana.github.com/config/vim/textobj-diff.html
